@@ -13,7 +13,7 @@ author = {Wei He and Shangzhi Zhang and Chun-Guang Li and Xianbiao Qi and Rong X
 }
 
 # About datasets
-Files under ./datasets were not uploaded, You may download the datasets from [here](https://drive.google.com/file/d/19U9TDzoQjppWSDf9zQXQhmubQVqZFJmY/view?usp=sharing).
+Files under ./datasets were not uploaded, You may create the "./datasets" folder download the datasets from [here](https://drive.google.com/file/d/19U9TDzoQjppWSDf9zQXQhmubQVqZFJmY/view?usp=sharing).
 
 # Contact
 Please contact wei.he@bupt.edu.cn if you have any question on the codes or require check points.
